@@ -14,8 +14,7 @@ export const Home = () => {
                         <h5 className='mr'>MR</h5>
                         <h5 className='peabody'>PEABODY</h5>
                         <h5 className='sherman'>& SHERMAN</h5>
-{/*                         <h5 className='fun'>Fun little character</h5>
- */}                        </div>
+                        </div>
                     </Col>
                     <Col>
                         <img src={limage} alt="limage" className="limage" />
