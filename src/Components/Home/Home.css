@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'LuckiestGuy';
+    src: local('LuckiestGuy'), url(../../Assets/Fonts/LuckiestGuy-Regular.ttf) format('truetype');
+  }
+.nav-link{
+    color: black;
+    margin-left: 30px;
+    font-weight: 750;
+}
+.nav-link:hover{
+    color: #d7120ebb;
+}
+.custom-navbar{
+    background-color: #EEEEF0;
+}
+.elijah{
+    color: black;
+    font-weight: 750;
+}
+.home-container{
+    background-color: #EEEEF0;
+}
+.furry{
+    margin-top: 50%;
+    align-items: center;
+    color: white;
+    font-size: 100px;
+}
+.sherman{
+    color: #d7120ebb;
+    font-family: 'LuckiestGuy';
+    font-size: 60px;
+    margin-top: -30px;
+}
+.peabody{
+    color: black;
+    font-family: 'LuckiestGuy';
+    font-size: 60px;
+    margin-top: -30px;
+}
+.mr{
+    color: black;
+    font-family: 'LuckiestGuy';
+    font-size: 50px;
+    margin-left: 33px;
+}
+/* couleur a prendre au cas ou l'autre me plait plus : #FDFE98 */
+.TheBig{
+    margin-top: 50px;
+}
+.theone{
+    display: flex;
+}
+.fun{
+    color: #d7120ebb;
+    font-family: 'LuckiestGuy';
+}
+.Synopsis{
+    font-family: 'LuckiestGuy';
+    color: black;
+    text-decoration: underline;
+}

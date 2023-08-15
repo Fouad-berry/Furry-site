@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #EEEEF0;
+  scroll-padding-top: 75px;
+}
+
+body{
+  background-color: #EEEEF0;
+  margin: 0px;
+  padding: 0px;
+  width:100%;
+  overflow-x: hidden; 
+  max-width: auto; 
+  height: auto;
+}
+.App{
+  background-color: #EEEEF0;
+}
